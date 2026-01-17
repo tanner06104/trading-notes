@@ -8,3 +8,4 @@
 - Note 6: Forex is really easy to trade
 - Note 7: I am watching carefully the altcoins
 - Note 8: Starting with RWA
+- Note 9: Ondo is going down
