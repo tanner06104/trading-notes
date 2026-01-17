@@ -22,3 +22,4 @@
 - Note 20: Interoperabilty 
 - Note 21: Layerzero is more bullish than ever
 - Note 22: Wormhole is fucked
+- Note 23: Bungee exchange will never tge lol
