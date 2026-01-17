@@ -18,3 +18,5 @@
 - Note 16: Let's check Privacy coins
 - Note 17: Aleo is fucked up
 - Note 18: I love Dusk at the moment
+- Note 19: I am watching Zano care fully
+- Note 20: Interoperabilty 
