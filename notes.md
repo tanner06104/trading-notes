@@ -28,3 +28,4 @@
 - Note 26: Let's talk about Layer 2
 - Note 27: Arbitrum is strong
 - Note 28: Optimism is pretty strong as well
+- Note 29: Zksync fucked-up their community
