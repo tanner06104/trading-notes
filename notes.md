@@ -16,3 +16,4 @@
 - Note 14: AI agents are fuck at the moment
 - Note 15: Fetch AI is a good AI
 - Note 16: Let's check Privacy coins
+- Note 17: Aleo is fucked up
