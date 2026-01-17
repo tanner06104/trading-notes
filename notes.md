@@ -4,3 +4,4 @@
 - Note 2: ETH looking weak
 - Note 3: Stocks are down
 - Note 4: Gold is pumping
+- Note 5: Silver is pumping 
