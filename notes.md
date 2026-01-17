@@ -30,3 +30,4 @@
 - Note 28: Optimism is pretty strong as well
 - Note 29: Zksync fucked-up their community
 - Note 30: Polygon is dead as fuck, rebranding to POL doesn't make them strong
+- Note 31: Base will be the no. 1 Layer 2
