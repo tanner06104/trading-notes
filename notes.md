@@ -15,3 +15,4 @@
 - Note 13: Virtual is stabilizing and holding strong
 - Note 14: AI agents are fuck at the moment
 - Note 15: Fetch AI is a good AI
+- Note 16: Let's check Privacy coins
