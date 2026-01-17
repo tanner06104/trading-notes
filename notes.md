@@ -6,3 +6,4 @@
 - Note 4: Gold is pumping
 - Note 5: Silver is pumping 
 - Note 6: Forex is really easy to trade
+- Note 7: I am watching carefully the altcoins
