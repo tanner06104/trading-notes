@@ -33,4 +33,5 @@
 - Note 31: Base will be the no. 1 Layer 2
 - Note 32: Linea is queen, of milking campaigns
 - Note 33: Monitoring other crypto currencies
+- Note 34: I am watching Decentralized storage
 
