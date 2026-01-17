@@ -5,3 +5,4 @@
 - Note 3: Stocks are down
 - Note 4: Gold is pumping
 - Note 5: Silver is pumping 
+- Note 6: Forex is really easy to trade
