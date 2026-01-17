@@ -1,0 +1,3 @@
+# Trading Notes
+- Start log
+
