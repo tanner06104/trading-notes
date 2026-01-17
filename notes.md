@@ -11,3 +11,4 @@
 - Note 9: Ondo is going down
 - Note 10: Cpool is massively down
 - Note 11: I am holding plume tightly even it is down badly
+- Note 12: Let's check AI
