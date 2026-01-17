@@ -26,3 +26,4 @@
 - Note 24: Same as Squid lol
 - Note 25: Relay milking all the way
 - Note 26: Let's talk about Layer 2
+- Note 27: Arbitrum is strong
