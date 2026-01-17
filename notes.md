@@ -21,3 +21,4 @@
 - Note 19: I am watching Zano care fully
 - Note 20: Interoperabilty 
 - Note 21: Layerzero is more bullish than ever
+- Note 22: Wormhole is fucked
