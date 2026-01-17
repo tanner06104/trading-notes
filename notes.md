@@ -32,3 +32,5 @@
 - Note 30: Polygon is dead as fuck, rebranding to POL doesn't make them strong
 - Note 31: Base will be the no. 1 Layer 2
 - Note 32: Linea is queen, of milking campaigns
+- Note 33: Monitoring other crypto currencies
+
