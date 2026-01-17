@@ -17,3 +17,4 @@
 - Note 15: Fetch AI is a good AI
 - Note 16: Let's check Privacy coins
 - Note 17: Aleo is fucked up
+- Note 18: I love Dusk at the moment
