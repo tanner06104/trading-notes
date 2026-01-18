@@ -47,4 +47,5 @@
 - Note 45: Bittensor (TAO) is really bullish
 - Note 46: Render is also a good hodl one
 - Note 47: BitTorrent seems dead for me
+- Note 48: Akash has a huge potential imo
 
