@@ -39,4 +39,5 @@
 - Note 37: Arweave is down, no marketing at all
 - Note 38: Decentralize Perp
 - Note 39: GMX isn't hype anymore
+- Note 40: I'm watching Hyperliquid, no. 1 at the moment
 
