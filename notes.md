@@ -37,4 +37,6 @@
 - Note 35: Walrus will make sense at the right moment in time
 - Note 36: Filecoin is too old
 - Note 37: Arweave is down, no marketing at all
+- Note 38: Decentralize Perp
+- 
 
