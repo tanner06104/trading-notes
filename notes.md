@@ -35,4 +35,5 @@
 - Note 33: Monitoring other crypto currencies
 - Note 34: I am watching Decentralized storage
 - Note 35: Walrus will make sense at the right moment in time
+- Note 36: Filecoin is too old
 
