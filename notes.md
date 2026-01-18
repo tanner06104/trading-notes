@@ -49,4 +49,5 @@
 - Note 47: BitTorrent seems dead for me
 - Note 48: Akash has a huge potential imo
 - Note 49: Grass is really bullish, S2 is on going
+- Note 50: Metaverse is up next
 
