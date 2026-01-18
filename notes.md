@@ -46,4 +46,5 @@
 - Note 44: Depin
 - Note 45: Bittensor (TAO) is really bullish
 - Note 46: Render is also a good hodl one
+- Note 47: BitTorrent seems dead for me
 
