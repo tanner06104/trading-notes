@@ -40,4 +40,5 @@
 - Note 38: Decentralize Perp
 - Note 39: GMX isn't hype anymore
 - Note 40: I'm watching Hyperliquid, no. 1 at the moment
+- Note 41: Aster is looking good, CZ promted it
 
