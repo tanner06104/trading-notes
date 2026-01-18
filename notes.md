@@ -43,4 +43,5 @@
 - Note 41: Aster is looking good, CZ promted it
 - Note 42: Lighter (LIT) I am looking it closely
 - Note 43: dydx seems old, but the airdrop is fun
+- Note 44: Depin 
 
