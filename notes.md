@@ -57,6 +57,7 @@
 - Note 53: When I started years ago it is really difficult
 - Note 54: I felt like this is not for me
 - Note 55: but, I'm always thinking the reason why I started it
+- Note 56: Even it's difficult, I'm continously doing it
 
 
 
