@@ -54,6 +54,7 @@
 - Extra check for sync
 - Note 51: Futures Trading
 - Note 52: I am really profitable
+- Note 53: When I started years ago it is really difficult
 
 
 
