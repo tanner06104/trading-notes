@@ -52,6 +52,7 @@
 - Note 50: Metaverse is up next
 - Check Jan 18 update
 - Extra check for sync
+- Note 51: Futures Trading
 
 
 
