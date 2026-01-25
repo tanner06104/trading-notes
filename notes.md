@@ -53,6 +53,7 @@
 - Check Jan 18 update
 - Extra check for sync
 - Note 51: Futures Trading
+- Note 52: I am really profitable
 
 
 
