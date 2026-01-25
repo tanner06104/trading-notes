@@ -60,6 +60,7 @@
 - Note 56: Even it's difficult, I'm continously doing it
 - Note 57: No matter how hard it is, put the very best effort.
 - Note 58: This is my passion and purpose at the same time
+- Note 59: Trading is hard, but life is harder
 
 
 
